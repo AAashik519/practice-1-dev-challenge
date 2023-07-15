@@ -22,10 +22,12 @@ text-transform: uppercase;
     margin: 100px 0;
 }
 .container img{
-    width: 40%
+    width: 40%;
+    cursor: pointer;
 }
 .content {
-    padding: 0 100px
+    padding: 0 100px;
+    
     
 }
 .content h1{
@@ -62,6 +64,8 @@ font-family: Space Mono;
 font-size: 14px;
 font-style: normal;
 border-radius: 5px;
+border: none;
+cursor: pointer;
  
 }
 footer{
